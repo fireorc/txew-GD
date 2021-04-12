@@ -114,6 +114,10 @@
 			$('#defi').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'john') {
+			$('#john').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'gravforce') {
 			$('#gravforce').show();
 		} 
