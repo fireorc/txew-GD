@@ -122,10 +122,6 @@
 			$('#gravforce').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'defineri') {
-			$('#defineri').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'surfer') {
 			$('#surfer').show();
 		} 
