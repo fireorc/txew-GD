@@ -122,6 +122,10 @@
 			$('#gravforce').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'inundating') {
+			$('#inundating').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'surfer') {
 			$('#surfer').show();
 		} 
