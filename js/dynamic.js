@@ -126,6 +126,10 @@
 			$('#inundating').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'leantowards') {
+			$('#leantowards').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'surfer') {
 			$('#surfer').show();
 		} 
