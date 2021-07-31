@@ -1,0 +1,260 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+  font-family: 'btc';
+  src:  url('fonts/btc.eot?wsfr8x');
+  src:  url('fonts/btc.eot?wsfr8x#iefix') format('embedded-opentype'),
+    url('fonts/btc.ttf?wsfr8x') format('truetype'),
+    url('fonts/btc.woff?wsfr8x') format('woff'),
+    url('fonts/btc.svg?wsfr8x#btc') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'btc' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-btc-brands:before {
+  content: "\e900";
+}
+body {
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.form-group label,
+.form-group input,
+.form-group textarea {
+	font-size: 14px;
+}
+.dynamic-content {
+    display: none;
+}
+/* Page Title Original */
+/*-----------------------------------*/
+/*.page-title {
+  font-size: 50px;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: -0.01em;
+  text-align: center;
+  margin: 0;
+}
+.page-title span {
+  display: inline-block;
+  padding: .18em .24em;
+  border: 3px solid #fff;
+}*/
+.page-title {
+text-shadow:
+-1px -1px 0 #000,
+1px -1px 0 #000,
+-1px 1px 0 #000,
+1px 1px 0 #000;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+.page-title span {
+	/*border: none;*/
+	background-color: rgba(24,188,156,1);
+}
+.page-title-before {
+  margin-top: .6em;
+  margin-bottom: 0;
+}
+.pagedeco {
+	border-top: #18BC9C double;
+	border-left:#18BC9C double;
+	border-right: #18BC9C double;
+}
+.postlist .article {
+	margin-bottom: 20px;
+}
+.hstyle {
+	padding: 15px 0 15px 0;
+	text-align: center;
+}
+.pstyle {
+	text-indent: 15px;
+}
+.postlist-masonry .article {
+	margin-bottom: 20px;
+}
+.postlist-masonry .post-title {
+  text-align: left;
+  text-indent: 15px;
+}
+.postlist-masonry .post-content {
+  padding: 0;
+}
+.post-content p,
+.widget-text p {
+	line-height: 1.5;
+}
+.portfolio-item .item-link .item-title {
+  font-size: 20px;
+  text-transform:;
+  word-break: break-all;
+}
+#btc {
+	font-family: "btc";
+	font-size: 48px;
+}
+.emoji {
+	font-size: 48px;
+}
+.list-links {
+	text-align: justify;
+	padding-bottom: 20px;
+}
+    .list-links:after {
+        content: "";
+        display: inline-block;
+        width: 100%;	
+    }
+h2.list-title {
+	width: 100%;
+	text-align: left;
+	text-indent: 15px;
+	color: rgba(153,153,153,1);
+	font-size: 32px;
+}
+/* Image Background Start */
+.item-image {
+	background-image:;
+	background-color:;
+}
+.portfolio .item-link .item-hover {
+	background-color: rgba(51,51,51,0.4);
+	opacity: 1;
+}
+.portfolio .item-link .item-hover.moji {
+	background-color: rgba(24,188,156,0.7);
+	opacity: 1;
+}
+.portfolio .item-link .item-hover h4 {
+	color: rgba(255,255,255,1);
+	background: rgba(51,51,51,0.4);
+	padding-top: 5%;
+	padding-bottom: 5%;
+	border: rgba(255,255,255,1) thin solid;
+}
+.portfolio .item-link .item-hover:hover {
+  background-color: rgba(255,255,255,0.4);
+}
+.portfolio .item-link .item-hover.moji:hover {
+  background-color: rgba(24,188,156,0.4);
+}
+.portfolio .item-link .item-hover:hover h4 {
+	color: rgba(0,0,0,1);
+	background: rgba(255,255,255,0.8);
+	border: rgba(0,0,0,1) thin solid;
+}
+.pagetop {
+	text-align: left;
+}
+/* Image Background End */
+.widget-text {
+	text-align: center;
+}
+.imgfloat {
+	background-image: url(images/hardcopy.png);
+	background-position: center;
+	background-size: contain;
+	width: 180px;
+	height: 180px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
+.footer-copyright,
+.footer-copyright a{
+	color: rgba(153,153,153,1);
+}
+.footer-copyright img {
+	display: inline-block;
+}
+#cryptopay {
+	font-family: "btc";
+}
+@media only screen and (max-width: 1229px) {
+  body {
+    font-size: 16px;
+}
+  .imgfloat {
+	width: 160px;
+	height: 160px;
+}
+  .portfolio .item-link .item-title {
+    font-size: 16px;
+}
+}
+@media only screen and (max-width: 991px) {
+  body {
+    font-size: 16px;
+}
+  .imgfloat {
+	width: 140px;
+	height: 140px;
+}
+  .portfolio .item-link .item-title {
+    font-size: 12px;
+}
+}
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 16px;
+}
+  .imgfloat {
+	width: 120px;
+	height: 120px;
+}
+  .portfolio .item-link .item-title {
+    font-size: 15px;
+}
+.list-links a,
+.pagetop a {
+	font-size: 14px;
+}
+h2.list-title {
+	font-size: 24px;
+}
+.form-group label,
+.form-group input,
+.form-group textarea {
+	font-size: 12px;
+}
+}
+@media only screen and (max-width: 479px) {
+  body {
+    font-size: 14px;
+}
+  .imgfloat {
+	width: 100px;
+	height: 100px;
+}
+  .portfolio .item-link .item-title {
+    font-size: 14px;
+}
+}
