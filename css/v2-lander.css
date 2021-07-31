@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: 'GenuineDomains';
+    src: url('../fonts/GenuineDomains.eot');
+    src: url('../fonts/GenuineDomains.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GenuineDomains.woff') format('woff'),
+         url('../fonts/GenuineDomains.ttf') format('truetype'),
+         url('../fonts/GenuineDomains.svg#GenuineDomains') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GenuineDomainsBold';
+    src: url('../fonts/GenuineDomainsBold.eot');
+    src: url('../fonts/GenuineDomainsBold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GenuineDomainsBold.woff') format('woff'),
+         url('../fonts/GenuineDomainsBold.ttf') format('truetype'),
+         url('../fonts/GenuineDomainsBold.svg#GenuineDomainsBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+	font-family: "GenuineDomains";
+	min-width: 380px;
+	overflow: auto;
+}
+#header {
+	background-color: rgba(255,255,255,1);
+}
+/*.img-responsive {
+	background-color: (24,188,156,1);
+	border: rgba(24,188,156,1) 1px solid;
+	border-radius: 15px;
+	box-shadow: 6px 8px rgba(24,188,156,1);
+	padding: 15px;
+}*/
+#dn {
+	color: rgba(24,188,156,1);
+	/*background-color: (255,255,255,1);
+	border: rgba(24,188,156,1) 2px solid;
+	box-shadow: 6px 8px rgba(24,188,156,1);*/
+	text-transform: none;
+	font-family: "GenuineDomainsBold";
+	/* adds cushion to box-border for inline block */
+	/*padding-left: 15px;
+	padding-right: 15px;*/
+	/* engraved text #1 */
+	/*text-shadow: -1px -1px 2px #000;*/
+	/* engraved text #2 */
+    /*background-color: #5D8D89;*/
+    /*text-shadow: 0px 1px 0px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);*/
+	/*embossed text */
+	/*background-color: #aaa;
+	text-shadow: 0px 1px 0px rgba(0,0,0,.5);*/
+}
+#padd {
+	padding-top: 75px;
+}
+#marg {
+	margin-bottom: 50px;
+/* makes box-border same size as text-width */
+	/*display: inline-block;*/
+}
+#marg2 {
+	margin-top: 50px;
+}
+#desc {
+	color: rgba(0,0,0,1);
+	max-width: 512px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+#cont {
+	color: rgba(0,0,0,1);
+	font-size: large;
+	max-width: 512px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.cont2 {
+	color: rgba(24,188,156,1);
+	font-family: "GenuineDomainsBold";
+}
+#cont2 {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Opera and Firefox */
+}
+hr.seperator {
+	color: rgba(0,0,0,1);
+    padding: 0;
+    border: none;
+    border-top: solid 2px;
+    text-align: center;
+    max-width: 250px;
+    margin: 25px auto 30px;
+}
