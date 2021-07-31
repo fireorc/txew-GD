@@ -111,6 +111,7 @@ text-shadow:
 #btc {
 	font-family: "btc";
 	font-size: 48px;
+	border: none;
 }
 .emoji {
 	font-size: 48px;
