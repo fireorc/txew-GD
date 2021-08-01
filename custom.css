@@ -251,6 +251,12 @@ h2.list-title {
   body {
     font-size: 14px;
 }
+  .page-title {
+    font-size: 20px;
+  }
+  .page-title-before {
+    font-size: 14px;
+  }
   .imgfloat {
 	width: 100px;
 	height: 100px;
