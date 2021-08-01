@@ -68,10 +68,6 @@
 			$('#club').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'cannabinoid') {
-			$('#cannabinoid').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'comfort') {
 			$('#comfort').show();
 		} 
@@ -268,10 +264,6 @@
 			$('#post').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'portable') {
-			$('#portable').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'totten') {
 			$('#rotten').show();
 		} 
@@ -290,10 +282,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'strictly') {
 			$('#strictly').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'smokin') {
-			$('#smokin').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'sirloin') {
@@ -405,10 +393,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'bud') {
 			$('#bud').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'beatles') {
-			$('#beatles').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'cheetah') {
@@ -569,10 +553,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'mighty') {
 			$('#mighty').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'meh') {
-			$('#meh').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'mojo') {
