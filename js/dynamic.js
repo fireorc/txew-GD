@@ -885,6 +885,10 @@
 			$('#goldenticket').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'graywolf') {
+			$('#graywolf').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'g-o') {
 			$('#g-o').show();
 		} 
