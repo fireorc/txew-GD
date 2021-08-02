@@ -147,7 +147,7 @@ h2.list-title {
 }
 .portfolio .item-link .item-hover h4 {
 	color: rgba(255,255,255,1);
-	background: rgba(51,51,51,0.4);
+	background: rgba(0,0,0,0.6);
 	padding-top: 5%;
 	padding-bottom: 5%;
 	border: rgba(255,255,255,1) thin solid;
