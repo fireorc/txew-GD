@@ -216,6 +216,10 @@
 			$('#logic').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'legendary') {
+			$('#legendary').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'magic') {
 			$('#magic').show();
 		} 
