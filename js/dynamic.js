@@ -805,6 +805,10 @@
 		else if (dynamicContent == 'yank') {
 			$('#yank').show();
 		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'ringothethefisherman') {
+			$('#ringofthefisherman').show();
+		} 
 
 // Web3 //
 
