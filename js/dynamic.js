@@ -806,7 +806,7 @@
 			$('#yank').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'ringothethefisherman') {
+		else if (dynamicContent == 'ringofthefisherman') {
 			$('#ringofthefisherman').show();
 		} 
 
