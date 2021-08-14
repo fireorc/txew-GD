@@ -108,7 +108,7 @@ text-shadow:
   text-transform:;
   word-break: break-all;
 }
-.portfolio-item .item-link .item-title .long {
+.portfolio-item .item-link .item-title-long {
   font-size: 16px;
   text-transform:;
   word-break: break-all;
@@ -214,7 +214,7 @@ h2.list-title {
   .portfolio .item-link .item-title {
     font-size: 16px;
 }
-  .portfolio .item-link .item-title .long {
+  .portfolio .item-link .item-title-long {
     font-size: 14px;
 }
 }
@@ -229,7 +229,7 @@ h2.list-title {
   .portfolio .item-link .item-title {
     font-size: 12px;
 }
-  .portfolio .item-link .item-title .long {
+  .portfolio .item-link .item-title-long {
     font-size: 10px;
 }
 }
@@ -250,7 +250,7 @@ h2.list-title {
   .portfolio .item-link .item-title {
     font-size: 15px;
 }
-  .portfolio .item-link .item-title .long {
+  .portfolio .item-link .item-title-long {
     font-size: 13px;
 }
 .list-links a,
@@ -283,7 +283,7 @@ h2.list-title {
   .portfolio .item-link .item-title {
     font-size: 13px;
 }
-  .portfolio .item-link .item-title .long {
+  .portfolio .item-link .item-title-long {
     font-size: 11px;
 }
 }
