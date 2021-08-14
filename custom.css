@@ -108,6 +108,11 @@ text-shadow:
   text-transform:;
   word-break: break-all;
 }
+.portfolio-item .item-link .item-title-long {
+  font-size: 16px;
+  text-transform:;
+  word-break: break-all;
+}
 #btc {
 	font-family: "btc";
 	font-size: 48px;
@@ -209,6 +214,9 @@ h2.list-title {
   .portfolio .item-link .item-title {
     font-size: 16px;
 }
+  .portfolio .item-link .item-title-long {
+    font-size: 14px;
+}
 }
 @media only screen and (max-width: 991px) {
   body {
@@ -220,6 +228,9 @@ h2.list-title {
 }
   .portfolio .item-link .item-title {
     font-size: 12px;
+}
+  .portfolio .item-link .item-title-long {
+    font-size: 10px;
 }
 }
 @media only screen and (max-width: 767px) {
@@ -238,6 +249,9 @@ h2.list-title {
 }
   .portfolio .item-link .item-title {
     font-size: 15px;
+}
+  .portfolio .item-link .item-title-long {
+    font-size: 13px;
 }
 .list-links a,
 .pagetop a {
@@ -268,5 +282,8 @@ h2.list-title {
 }
   .portfolio .item-link .item-title {
     font-size: 13px;
+}
+  .portfolio .item-link .item-title-long {
+    font-size: 11px;
 }
 }
