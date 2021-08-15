@@ -108,10 +108,8 @@ text-shadow:
   text-transform:;
   word-break: break-all;
 }
-.portfolio-item .item-link .item-title-long {
+.item-title-long {
   font-size: 16px;
-  text-transform:;
-  word-break: break-all;
 }
 #btc {
 	font-family: "btc";
