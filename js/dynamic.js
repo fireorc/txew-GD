@@ -208,10 +208,6 @@
 			$('#letter').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'lunar') {
-			$('#lunar').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'logic') {
 			$('#logic').show();
 		} 
@@ -274,10 +270,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'robot') {
 			$('#robot').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'rocket') {
-			$('#rocket').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'sic') {
@@ -433,10 +425,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'civilization') {
 			$('#civilization').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'comm') {
-			$('#comm').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'curious') {
@@ -645,10 +633,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'superph') {
 			$('#superph').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'thegreat') {
-			$('#thegreat').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 't-b') {
