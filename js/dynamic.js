@@ -996,10 +996,6 @@
 			$('#maple').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'dragon') {
-			$('#dragon').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'bitcoin') {
 			$('#bitcoin').show();
 		} 
