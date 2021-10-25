@@ -134,6 +134,15 @@ h2.list-title {
 	color: rgba(153,153,153,1);
 	font-size: 32px;
 }
+/* thus far, unable to remove theme case formatting without changing font!! */
+/* theme default .post-title font: Playfair Display SC */
+/* theme default h3 font: Montserrat */
+/*h3.blah {
+  font-family: 'Playfair Display SC', serif; 
+  font-family: 'Montserrat', sans-serif; 
+  text-transform: none;
+}*/
+/* case formatting end */
 /* Image Background Start */
 .item-image {
 	background-image:;
