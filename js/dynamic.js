@@ -774,6 +774,10 @@
 			$('#tekwolf').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'thingsinamerica') {
+			$('#thingsinamerica').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'virusparticles') {
 			$('#virusparticles').show();
 		} 
