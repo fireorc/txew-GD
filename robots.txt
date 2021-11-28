@@ -38,6 +38,6 @@ Disallow: nextld-x.html
 Disallow: nextld-y.html
 Disallow: nextld-z.html
 Disallow: style.css
-Disallow: web3.html.html
+Disallow: web3.html
 
 Sitemap: https://genuine.domains/sitemap.xml
