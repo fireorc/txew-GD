@@ -37,6 +37,7 @@ Disallow: nextld-w.html
 Disallow: nextld-x.html
 Disallow: nextld-y.html
 Disallow: nextld-z.html
+Disallow: spotlight.html
 Disallow: style.css
 Disallow: web3.html
 
