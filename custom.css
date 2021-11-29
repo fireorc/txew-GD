@@ -134,6 +134,21 @@ h2.list-title {
 	color: rgba(153,153,153,1);
 	font-size: 32px;
 }
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+}
+.videoWrapper iframe,
+video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-size:cover;
+	background: rgba(0,0,0,1);
+}
 /* thus far, unable to remove theme case formatting without changing font!! */
 /* theme default .post-title font: Playfair Display SC */
 /* theme default h3 font: Montserrat */
