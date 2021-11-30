@@ -13,4 +13,4 @@ document.getElementById('footmain').innerHTML = "☎ 1-866-GENDOMS<br/>✉ names
 
 document.getElementById('footinfo').innerHTML = "&copy; Genuine Domains • est. 2016 • <span id='cryptopay' title='crypto payments: gendoms.crypto'>₿</span> • <a href='http://dn.gd'>dn.gd</a>";
 
-function Reset() { document.getElementById('spotlight').load(); };
+function Reset() { document.getElementById('videoReset').load(); };
