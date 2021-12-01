@@ -42,6 +42,13 @@ body {
 .dynamic-content {
     display: none;
 }
+/* Logo */
+/*-----------------------------------*/
+.sticky .logo .image-sticky {
+	min-width: 200px;
+	image-rendering: -webkit-optimize-contrast;
+	image-rendering: crisp-edges;
+}
 /* Page Title Original */
 /*-----------------------------------*/
 /*.page-title {
