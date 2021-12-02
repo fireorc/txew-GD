@@ -42,6 +42,9 @@ body {
 .dynamic-content {
     display: none;
 }
+img {
+    pointer-events: none;
+}
 /* Logo */
 /*-----------------------------------*/
 .sticky .logo .image-sticky {
