@@ -52,6 +52,16 @@ img {
 	image-rendering: -webkit-optimize-contrast;
 	image-rendering: crisp-edges;
 }
+/* Navigation Bar */
+/*-----------------------------------*/
+.navigation.sticky {
+	border-bottom: rgba(51,51,51,1) thin solid;
+}
+/* Footer */
+/*-----------------------------------*/
+.footer-widgets {
+  background-color:;
+}
 /* Page Title Original */
 /*-----------------------------------*/
 /*.page-title {
