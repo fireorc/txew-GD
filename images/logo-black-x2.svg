@@ -39,10 +39,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0" />
   <defs
+  	 style="@import url(https://fonts.googleapis.com/css?family=Open+Sans:400)"
      id="defs2" />
-<defs>
-  <style type="text/css">@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);</style>
-</defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -63,7 +61,7 @@
        y="5.8208351" />
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:12.7px;line-height:1.25;font-family:Montserrat;font-weight:700;-inkscape-font-specification:'Montserrat, Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       style="font-weight:400;font-size:12.7px;line-height:1.25;font-family:Open Sans;-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583"
        x="73.219727"
        y="18.901173"
        id="text61426"><tspan
