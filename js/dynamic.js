@@ -730,10 +730,6 @@
 			$('#licenza').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'nomed') {
-			$('#nomed').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'phred') {
 			$('#phred').show();
 		} 
