@@ -28,10 +28,6 @@
 			$('#a1').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'bawdy') {
-			$('#bawdy').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'big') {
 			$('#big').show();
 		} 
@@ -46,10 +42,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'blacktie') {
 			$('#blacktie').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'bigshot') {
-			$('#bigshot').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'blood') {
@@ -76,16 +68,8 @@
 			$('#canbuy').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'cansell') {
-			$('#cansell').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'chimney') {
 			$('#chimney').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'curios') {
-			$('#curios').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'cable') {
@@ -98,10 +82,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'coastal') {
 			$('#coastal').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'defi') {
-			$('#defi').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'described') {
@@ -124,20 +104,12 @@
 			$('#escape').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'fables') {
-			$('#fables').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'fast') {
 			$('#fast').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'facial') {
 			$('#facial').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'flopping') {
-			$('#flopping').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'folding') {
@@ -186,10 +158,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'indica') {
 			$('#indica').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'jettison') {
-			$('#jettison').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'jade') {
@@ -290,10 +258,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'super') {
 			$('#super').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'superlative') {
-			$('#superlative').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'sea') {
@@ -704,10 +668,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'flamborough') {
 			$('#flamborough').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'gravforce') {
-			$('#gravforce').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'hacienda') {
