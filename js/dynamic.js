@@ -268,6 +268,10 @@
 			$('#spinning').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'sex') {
+			$('#sex').show();
+		}
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'towerofpower') {
 			$('#towerofpower').show();
 		} 
