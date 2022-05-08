@@ -20,14 +20,6 @@
 			$('#air').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'a-l') {
-			$('#a-l').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'a1') {
-			$('#a1').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'big') {
 			$('#big').show();
 		} 
@@ -40,10 +32,6 @@
 			$('#besties').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'blacktie') {
-			$('#blacktie').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'blood') {
 			$('#blood').show();
 		} 
@@ -54,10 +42,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'beyond') {
 			$('#beyond').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'club') {
-			$('#club').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'comfort') {
@@ -128,10 +112,6 @@
 			$('#funnybone').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'gal') {
-			$('#gal').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'galloping') {
 			$('#galloping').show();
 		} 
@@ -162,10 +142,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'jade') {
 			$('#jade').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'john') {
-			$('#john').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'jester') {
@@ -238,10 +214,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'robot') {
 			$('#robot').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'sic') {
-			$('#sic').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'strictly') {
