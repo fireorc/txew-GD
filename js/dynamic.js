@@ -68,6 +68,10 @@
 			$('#coastal').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'crunk') {
+			$('#crunk').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'described') {
 			$('#described').show();
 		} 
