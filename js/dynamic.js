@@ -507,10 +507,6 @@
 			$('#paradigm').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'paradox') {
-			$('#paradox').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'profit') {
 			$('#profit').show();
 		} 
