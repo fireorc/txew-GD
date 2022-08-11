@@ -371,10 +371,6 @@
 			$('#civilization').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'curious') {
-			$('#curious').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'digit') {
 			$('#digit').show();
 		} 
