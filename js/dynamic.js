@@ -327,10 +327,6 @@
 			$('#artisan').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'anchor') {
-			$('#anchor').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'bud') {
 			$('#bud').show();
 		} 
