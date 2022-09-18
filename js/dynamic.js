@@ -765,8 +765,8 @@
 			$('#energized').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'epk') {
-			$('#epk').show();
+		else if (dynamicContent == 'vale') {
+			$('#vale').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'etransfers') {
@@ -903,6 +903,10 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'wayfarer') {
 			$('#wayfarer').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'pyramid') {
+			$('#pyramid').show();
 		} 
 
 // emoji //
