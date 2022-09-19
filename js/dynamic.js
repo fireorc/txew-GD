@@ -789,8 +789,8 @@
 			$('#g-o').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'hits') {
-			$('#hits').show();
+		else if (dynamicContent == 'g-spot') {
+			$('#g-spot').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'hiatus') {
@@ -843,6 +843,10 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'pwrx') {
 			$('#pwrx').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'pyramid') {
+			$('#pyramid').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'primum') {
@@ -903,10 +907,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'wayfarer') {
 			$('#wayfarer').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'pyramid') {
-			$('#pyramid').show();
 		} 
 
 // emoji //
