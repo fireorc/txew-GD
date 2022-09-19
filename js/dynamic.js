@@ -765,10 +765,6 @@
 			$('#energized').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'vale') {
-			$('#vale').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'etransfers') {
 			$('#etransfers').show();
 		} 
@@ -899,6 +895,10 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'treads') {
 			$('#treads').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'vale') {
+			$('#vale').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'virtua') {
