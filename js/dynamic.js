@@ -817,7 +817,7 @@
 			$('#virtua').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'wayfarer') {
+		else if (dynamicContent == 'wwb') {
 			$('#wayfarer').show();
 		} 
 
