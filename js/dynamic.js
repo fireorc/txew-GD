@@ -120,6 +120,10 @@
 			$('#legendary').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'mami') {
+			$('#mami').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'magic') {
 			$('#magic').show();
 		} 
@@ -238,6 +242,10 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'up') {
 			$('#up').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'wildoats') {
+			$('#wildoats').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'winningest') {
@@ -483,6 +491,10 @@
 			$('#silly').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'sous') {
+			$('#sous').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'specimen') {
 			$('#specimen').show();
 		} 
@@ -534,6 +546,10 @@
 			$('#cmkrnl').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'cushlin') {
+			$('#cushlin').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'cancion') {
 			$('#cancion').show();
 		} 
@@ -558,12 +574,20 @@
 			$('#federalbuilding').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'fore-edge') {
+			$('#fore-edge').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'flamborough') {
 			$('#flamborough').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'hacienda') {
 			$('#hacienda').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'hunkpapa') {
+			$('#hunkpapa').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'infosci') {
@@ -576,6 +600,10 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'kamikaze') {
 			$('#kamikaze').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'leapyour') {
+			$('#leapyour').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'licenza') {
