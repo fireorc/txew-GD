@@ -24,10 +24,6 @@
 			$('#beyond').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'chimney') {
-			$('#chimney').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'coastal') {
 			$('#coastal').show();
 		} 
@@ -86,10 +82,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'logic') {
 			$('#logic').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'mami') {
-			$('#mami').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'magic') {
@@ -166,10 +158,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'tippe') {
 			$('#tippe').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'tiedye') {
-			$('#tiedye').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'techno') {
